@@ -1,4 +1,4 @@
-package edu.dio.java.operadores;
+package edu.dio.java.Operadores;
 
 public class Operadores {
     public static void main(String[] args) {
