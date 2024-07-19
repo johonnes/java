@@ -3,7 +3,7 @@
  public class Definicao {
 	public static void main(String[] args) {
 		
-	
+	/* 
 	public double somar(int num1, int num2){
 		//LOGICA - FINALIDADE DO MÉTODO
 		return ... ;
@@ -38,5 +38,6 @@
 	public void gravarCliente(Cliente cliente){}
 	//ou
 	public void gravar(Cliente cliente){}
+	*/
      }
 }
