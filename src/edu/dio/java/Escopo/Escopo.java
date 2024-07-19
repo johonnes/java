@@ -4,9 +4,10 @@ public class Escopo {
     
     double saldo=10.0;
         
-    public void sacar(Double valor) {
+    public double sacar(Double valor) {
         //variavel local de método
         double novoSaldo = saldo - valor;
+        return novoSaldo;
     }
     public void imprimirSaldo(){
         //disponível em toda classe
