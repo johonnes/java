@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Scaners {
     public static void main(String[] args) {
+        /* 
         //criando o objeto scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
@@ -25,7 +26,7 @@ public class Scaners {
         System.out.println("Tenho " + idade + " anos ");
         System.out.println("Minha altura é " + altura + "cm ");
         
-        
+       */
     }
 }
 
