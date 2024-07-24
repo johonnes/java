@@ -1,4 +1,4 @@
-package edu.dio.java.TiposVariaveis;
+package edu.dio.java.Sintaxe.TiposVariaveis;
 
 public class TiposVariaveis {
     public static void main(String[] args) {

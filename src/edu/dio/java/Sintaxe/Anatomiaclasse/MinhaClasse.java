@@ -1,4 +1,4 @@
-package edu.dio.java.Anatomiaclasse;
+package edu.dio.java.Sintaxe.Anatomiaclasse;
 public class MinhaClasse {
 public static void main(String[] args) {
     String primeiroNome = "Wallison Johonnes";

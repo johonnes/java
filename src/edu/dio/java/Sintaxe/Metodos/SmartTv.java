@@ -1,4 +1,4 @@
-package edu.dio.java.Metodos;
+package edu.dio.java.Sintaxe.Metodos;
 
 public class SmartTv {
     boolean ligada= false;

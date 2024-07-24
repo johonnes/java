@@ -1,4 +1,4 @@
-package edu.dio.java.Escopo;
+package edu.dio.java.Sintaxe.Escopo;
 
 public class Escopo {
     

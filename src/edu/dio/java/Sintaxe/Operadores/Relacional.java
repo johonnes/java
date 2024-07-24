@@ -1,4 +1,4 @@
-package edu.dio.java.Operadores;
+package edu.dio.java.Sintaxe.Operadores;
 
 public class Relacional {
     public static void main(String[] args) {

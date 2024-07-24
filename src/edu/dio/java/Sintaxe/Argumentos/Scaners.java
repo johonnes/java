@@ -1,4 +1,4 @@
-package edu.dio.java.Argumentos;
+package edu.dio.java.Sintaxe.Argumentos;
 import java.util.Locale;
 import java.util.Scanner;
 

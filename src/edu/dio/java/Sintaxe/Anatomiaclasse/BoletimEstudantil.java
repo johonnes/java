@@ -1,4 +1,4 @@
-package edu.dio.java.Anatomiaclasse;
+package edu.dio.java.Sintaxe.Anatomiaclasse;
 // arquivo BoletimEstudantil
 
 public class BoletimEstudantil {
