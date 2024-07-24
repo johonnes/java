@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Scaners {
     public static void main(String[] args) {
-        /* 
+         
         //criando o objeto scanner
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
         
