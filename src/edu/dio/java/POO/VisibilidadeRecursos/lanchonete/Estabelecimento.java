@@ -1,8 +1,8 @@
-package edu.dio.Projeto.lanchonete;
+package edu.dio.java.POO.VisibilidadeRecursos.lanchonete;
 
-import edu.dio.Projeto.lanchonete.area.cliente.Cliente;
-import edu.dio.Projeto.lanchonete.atendimento.Atendente;
-import edu.dio.Projeto.lanchonete.atendimento.cozinha.Cozinheiro;
+import edu.dio.java.POO.VisibilidadeRecursos.lanchonete.area.cliente.Cliente;
+import edu.dio.java.POO.VisibilidadeRecursos.lanchonete.atendimento.Atendente;
+import edu.dio.java.POO.VisibilidadeRecursos.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
 	public static void main(String[] args) {

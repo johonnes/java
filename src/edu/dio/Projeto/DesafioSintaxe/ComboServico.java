@@ -1,4 +1,4 @@
-package edu.dio.Projeto.desafio;
+package edu.dio.Projeto.DesafioSintaxe;
 import java.util.Scanner;
 
 

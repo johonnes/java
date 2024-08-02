@@ -1,4 +1,4 @@
-package edu.dio.Projeto.lanchonete.atendimento.cozinha;
+package edu.dio.java.POO.VisibilidadeRecursos.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
 	private void controlarEntrada() {

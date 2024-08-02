@@ -1,4 +1,4 @@
-package edu.dio.Projeto.lanchonete.atendimento;
+package edu.dio.java.POO.VisibilidadeRecursos.lanchonete.atendimento;
 
 public class Atendente {
 	public void servindoMesa() {

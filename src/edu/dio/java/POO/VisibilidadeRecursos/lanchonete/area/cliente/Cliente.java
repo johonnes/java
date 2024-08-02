@@ -1,4 +1,4 @@
-package edu.dio.Projeto.lanchonete.area.cliente;
+package edu.dio.java.POO.VisibilidadeRecursos.lanchonete.area.cliente;
 
 public class Cliente {
 	public void escolherLanche() {
