@@ -19,7 +19,7 @@ public class VerificacaoServico {
         boolean contratado = false;
         
         
-        //TODO:Verifique se o serviço está na lista de serviços contratado
+        //Verifique se o serviço está na lista de serviços contratado
         for(String servic : partes){
             if(servic.equals(servico))
             contratado = true;

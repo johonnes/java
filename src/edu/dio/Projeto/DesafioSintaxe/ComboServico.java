@@ -11,7 +11,7 @@ public class ComboServico {
         boolean bandaLargaContratada = false;
         boolean tvContratada = false;
 
-        // TODO: Itere sobre os serviços contratados
+        // Itere sobre os serviços contratados
         for (String servico : servicosContratados) {
             if(servico.equals("movel")){
                 movelContratado = true;
@@ -25,7 +25,7 @@ public class ComboServico {
         
         }
 
-        // TODO: Verifique se todos os serviços foram contratados
+        // Verifique se todos os serviços foram contratados
         if (movelContratado && bandaLargaContratada && tvContratada) {
             return "Combo Completo";
         } else {

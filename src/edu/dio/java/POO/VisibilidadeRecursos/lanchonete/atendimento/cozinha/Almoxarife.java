@@ -1,6 +1,7 @@
 package edu.dio.java.POO.VisibilidadeRecursos.lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
+	@SuppressWarnings("unused")
 	private void controlarEntrada() {
 		System.out.println("CONTROLANDO A ENTRADA DOS ITENS");
 	}
