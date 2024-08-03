@@ -1,2 +1,34 @@
+## Desafio Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
 
-[![](https://mermaid.ink/img/pako:eNp9ksFuwjAMhl8lyqlI8ALVLogxjcM6BGiHqRfTmGIpjSs3QRuMd1-gLWPqtF5aN3_-_4vjky7YoE51YaFpHglKgSp3Kj6L5fNrNlcPX5OJWmEtbIJneQkNFWCHkmkNgnbPG7S4Y0cFDzUZHLAEw7JwHsWhz10ruqYPU07tajTJNvPV03Q27394LkCSUV_WEJr7uokQBbEDqa5OydoLuVK1VSc732cP8W_hf8QrZamMgZ2tCxUKj35WwaMzeAekFEVPApmxCBK_8TH5C2PQof8p8IO2JEsoyd3OGMTekxhqG5HxAaZbSH5RBrB0hN6gB9JjHc9TAZk4GFeAXPs9VpjrNH4a3EGwPte5u0ghXtj60xU69RJwrIVDudfpDmwTq1Cb2IxusHoJGrpccjd5l9dY1-Dematu4_kbm7fTYA?type=png)](https://mermaid.live/edit#pako:eNp9ksFuwjAMhl8lyqlI8ALVLogxjcM6BGiHqRfTmGIpjSs3QRuMd1-gLWPqtF5aN3_-_4vjky7YoE51YaFpHglKgSp3Kj6L5fNrNlcPX5OJWmEtbIJneQkNFWCHkmkNgnbPG7S4Y0cFDzUZHLAEw7JwHsWhz10ruqYPU07tajTJNvPV03Q27394LkCSUV_WEJr7uokQBbEDqa5OydoLuVK1VSc732cP8W_hf8QrZamMgZ2tCxUKj35WwaMzeAekFEVPApmxCBK_8TH5C2PQof8p8IO2JEsoyd3OGMTekxhqG5HxAaZbSH5RBrB0hN6gB9JjHc9TAZk4GFeAXPs9VpjrNH4a3EGwPte5u0ghXtj60xU69RJwrIVDudfpDmwTq1Cb2IxusHoJGrpccjd5l9dY1-Dematu4_kbm7fTYA)
+Nesse desafio foi feito um modelo UML e o codigo.java seguindo as instruções sugeridas no projeto, eu optei por fazer com interfaces para que a classe IPHONE tivesse todas as funcionalidades das interfaces.
+
+
+## Diagrama UML
+   Segue abaixo o digrama criado no [mermaid](https://mermaid.js.org/)
+
+```mermaid
+classDiagram
+    IPHONE --|> ReprodutorMusical
+    IPHONE --|> AparelhoTelefonico
+    IPHONE --|> NavegadorInternet
+
+    class ReprodutorMusical{
+      INTERFACE
+      tocar()
+      pausar()
+      selecionarmusica(String musica)
+    }
+    class AparelhoTelefonico{
+        INTERFACE
+        ligar(String numero)
+        atender()
+        iniciarCorreioVoz()
+    }
+    class NavegadorInternet{
+        INTERFACE
+        exibirPagina(String url)
+        adicionarNovaAba()
+        atualizarPagina()
+    }
+```   
+.
