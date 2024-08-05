@@ -2,7 +2,7 @@ package edu.dio.java.POO.PilaresPOO.multifuncional.estabelecimento;
 
 import edu.dio.java.POO.PilaresPOO.multifuncional.equipamentos.copiadora.Copiadora;
 import edu.dio.java.POO.PilaresPOO.multifuncional.equipamentos.digitalizadora.Digitalizadora;
-import edu.dio.java.POO.PilaresPOO.multifuncional.equipamentos.impressora.Deskjet;
+
 import edu.dio.java.POO.PilaresPOO.multifuncional.equipamentos.impressora.Impressora;
 import edu.dio.java.POO.PilaresPOO.multifuncional.equipamentos.multifuncional.EquipamentoMultifuncional;
 
