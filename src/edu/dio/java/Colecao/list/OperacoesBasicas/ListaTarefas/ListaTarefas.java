@@ -1,4 +1,4 @@
-package edu.dio.java.Colecao.list.ListaTarefas;
+package edu.dio.java.Colecao.list.OperacoesBasicas.ListaTarefas;
 
 import java.util.ArrayList;
 import java.util.List;
